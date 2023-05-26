@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="enter_amount">Enter Amount and Select the Source Currency</string>
+    <string name="no_access">Access Denied</string>
+    <string name="unauthorized">Unauthorized</string>
+    <string name="select_your_currency">Select Your Currency:</string>
+    <string name="see_all_currencies">Click to see all currencies</string>
+</resources>
